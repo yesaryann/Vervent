@@ -5,12 +5,6 @@
 2. ML based bert model where we checked plagiarism using covid 19 data set and gives the output how muvh plagiarism is used
 
 
-
-
-
-
-
--
 $ VERVENT [-s] [-o] [-h] input_directory
 
 
